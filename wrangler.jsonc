@@ -23,6 +23,7 @@
     ],
     "vars": {
         "AUTH_ENABLED": "true",
+        "AUTH_REQUIRED_FOR_READ": "false",
         "AUTH_USERNAME": "root",
         "AUTH_PASSWORD": "lym123456",
         "AUTH_SECRET": "wr4$fdfdsf6fdfddgfghkg"
